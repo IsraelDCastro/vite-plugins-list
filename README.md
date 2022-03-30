@@ -24,7 +24,7 @@ If you think some other plugin is missing to work with ViteJS in this list, you 
 
 You can use this plugin to work with ViteJS in your project with VueJS version two.
 
-<a href="https://github.com/underfin/vite-plugin-vue2" target="_blank" rel="nofollow noopener norefferer">GitHub</a>
+<a href="https://github.com/underfin/vite-plugin-vue2" target="_blank">GitHub</a>
 
 ---
 
@@ -32,7 +32,7 @@ You can use this plugin to work with ViteJS in your project with VueJS version t
 
 When you use **vite_ruby** with Ruby on Rails Framework, when you save the plugin reload the page without marking manually, to see the changes faster.
 
-<a href="https://github.com/ElMassimo/vite-plugin-full-reload" target="_blank" rel="nofollow noopener norefferer">GitHub</a>
+<a href="https://github.com/ElMassimo/vite-plugin-full-reload" target="_blank">GitHub</a>
 
 ---
 
@@ -40,7 +40,7 @@ When you use **vite_ruby** with Ruby on Rails Framework, when you save the plugi
 
 If you wan to render the SVG images in your projects as a component or file SVG, this plugin is the best option to do it, it is very ease to use it.
 
-<a href="https://www.npmjs.com/package/vite-plugin-svg" target="_blank" rel="nofollow noopener norefferer">NPM Doc</a>
+<a href="https://www.npmjs.com/package/vite-plugin-svg" target="_blank">NPM Doc</a>
 
 ---
 
@@ -48,7 +48,7 @@ If you wan to render the SVG images in your projects as a component or file SVG,
 
 Vite plugin book (aka vite book), is a magical vite plugin that helps you to generate and manage documentation website like a book!
 
-<a href="https://github.com/Saul-Mirone/vite-plugin-book" target="_blank" rel="nofollow noopener norefferer">GitHub</a> / <a href="https://saul-mirone.github.io/vite-plugin-book/" target="_blank" rel="nofollow noopener norefferer">Website</a>
+<a href="https://github.com/Saul-Mirone/vite-plugin-book" target="_blank">GitHub</a> / <a href="https://saul-mirone.github.io/vite-plugin-book/" target="_blank">Website</a>
 
 ---
 
